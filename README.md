@@ -19,4 +19,6 @@ http://video.unity3d.com/video/6952739/unite-2012-creating
 - Press right arrow to switch slides,
 - Uncheck "Show Debug" in $/Kinect/Kinect Depth Grabber to turn live kinect feed off.
 
+This very project is an example of what we were talking about at Unite. It evolved fast, its lifetime was very short, last code changes are ugly. The purpose of releasing this presentation open source is that we hope someone might find it interesting, inspirational or can learn something new from the code. If you wanted to see an ideal app with well-structured code following numerous GoF patterns look elsewhere.
+
 If you have any questions or can't run the demo feel free to ask.
