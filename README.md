@@ -3,7 +3,8 @@
 Licensed under MIT license.  
 version: 1.0  
 
-Presentation used in Interactive Lab's session at Unite 2012 conference in Amsterdam.
+Presentation used in Interactive Lab's session at Unite 2012 conference in Amsterdam.  
+http://video.unity3d.com/video/6952739/unite-2012-creating
 
 ## Limitations
 - Requires Unity3d 4,
