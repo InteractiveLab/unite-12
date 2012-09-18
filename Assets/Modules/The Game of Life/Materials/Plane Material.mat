@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Plane Material
+  m_Shader: {fileID: 4800000, guid: 0e85f4d6ca451ad4c82ec56f176cfc02, type: 3}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 2800000, guid: a54a33880e7b8ef459878af79d0b7300, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _Illum
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _SecondTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _EmissionLM
+        second: 0
+      data:
+        first:
+          name: _Lerp
+        second: 0
+      data:
+        first:
+          name: _InverseColor
+        second: 1
+      data:
+        first:
+          name: _Saturation
+        second: 1
+    m_Colors:
+      data:
+        first:
+          name: _Color
+        second: {r: 1, g: .650349617, b: 0, a: .447058827}
+      data:
+        first:
+          name: _Color2
+        second: {r: .235294119, g: .235294119, b: .235294119, a: 0}
+      data:
+        first:
+          name: _BackgroundColor
+        second: {r: 1, g: 1, b: 1, a: 1}
